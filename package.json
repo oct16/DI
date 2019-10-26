@@ -1,0 +1,27 @@
+{
+  "name": "di",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oct16/DI.git"
+  },
+  "keywords": [
+    "typescript",
+    "di"
+  ],
+  "author": "oct16",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oct16/DI/issues"
+  },
+  "homepage": "https://github.com/oct16/DI#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "tslint-config-prettier": "^1.18.0"
+  }
+}
